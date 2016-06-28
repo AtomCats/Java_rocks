@@ -11,7 +11,7 @@ import  java.util.Scanner;
 
 public class First {
     public void greetings() {
-        System.out.println("Error!!!!!I'm out!");
+        System.out.println("Error!!!!! \n You need to type first integer, then press Enter and then type the second integer. Try again. \n I'm out!");
 
     }
     public int greetings(int first,int second)
